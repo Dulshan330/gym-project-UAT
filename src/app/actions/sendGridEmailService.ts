@@ -51,7 +51,7 @@ export async function sendVerificationMail(email: string, token: string) {
 }
 
 export async function sendLoginCredentials(email: string, password: string) {
-  const loginLink = "http://localhost:3000/login";
+  const loginLink = "https://gym-project-uat.vercel.app/login";
 
   const mail = {
     to: email,
