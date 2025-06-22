@@ -1,0 +1,84 @@
+{
+    "personalInfo": [],
+    "physicalAttributes": [
+      {
+        "label": "Height",
+        "value": "175 cm"
+      },
+      {
+        "label": "Weight",
+        "value": "70 kg"
+      }
+    ],
+    "workSchedule": [
+      {
+        "label": "What do you do for a living?",
+        "value": "Software Engineer"
+      }
+    ],
+    "lifestyle": [
+      {
+        "label": "Physical activities outside of the gym and work",
+        "value": "Hiking, Swimming"
+      }
+    ],
+    "medicalHistory": [
+      {
+        "label": "Diagnosed health conditions",
+        "value": "None"
+      }
+    ],
+    "injuriesTreatments": [
+      {
+        "label": "Past injuries related to physical activity",
+        "value": "None"
+      }
+    ],
+    "mentalWellbeing": [
+      {
+        "label": "Stress levels and management techniques",
+        "value": "Moderate, Meditation"
+      }
+    ],
+    "familyHistory": [
+      {
+        "label": "Family history of significant health conditions",
+        "value": "None"
+      }
+    ],
+    "specificConditions": [
+      {
+        "label": "Specific health conditions to be aware of",
+        "value": "None"
+      }
+    ],
+    "paymentDetails": [
+      {
+        "packageName": "Gers Membership",
+        "packageType": "1 Month",
+        "paymentDate": "2025-01-01",
+        "price": "10,000"
+      }
+    ],
+    "gymDetails": {
+      "memberId": "20431",
+      "trainerName": "Dublinan",
+      "joinDate": "2020-08-23"
+    },
+    "packages": [
+      {
+        "name": "Gents Membership Package",
+        "status": "Now"
+      },
+      {
+        "name": "Couple Membership Package",
+        "status": "Previous"
+      }
+    ],
+    "schedules": [
+      {
+        "name": "Power Surge Routine",
+        "status": "Now"
+      }
+    ]
+  }
